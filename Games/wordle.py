@@ -1,7 +1,6 @@
 '''
 #Project - Wordle
 #Name - Victor Arellana Assia
-#Student ID - varella
 #Course - Computer Science 1026
 #Date - 10/8/2025
 #Description - Recreation of the famous game in the pandemic and now wordle with the idea of

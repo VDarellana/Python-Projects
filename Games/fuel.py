@@ -1,5 +1,4 @@
 #Name - Victor Daniel Arellana Assia
-#Student ID -251522305
 #Date - September 22nd 2025 - 09/22/2025
 #Course - Computer science 1026
 
