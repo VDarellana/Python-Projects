@@ -2,7 +2,7 @@
 
 ## Featured Projects
 
-### [Blackjack Game](Games/BlackjackYR1)
+### [Blackjack Game](Games/BlackJackYR1)
 A command-line Blackjack game built in Python. Features dealing, hit/stand choices,
 dealer logic, and win/loss detection.
 
