@@ -1,4 +1,9 @@
-# Welcome to my personal python Projects!
+# Welcome to my personal Python projects!
 
-These Projects are done over the past years most of them are games
-But there is labs which I was tested on and lessons that were taught to me 
+## Featured Projects
+
+### [Blackjack Game](Games/BlackjackYR1)
+A command-line Blackjack game built in Python. Features dealing, hit/stand choices,
+dealer logic, and win/loss detection.
+
+**How to run:** `python blackjack.py`
